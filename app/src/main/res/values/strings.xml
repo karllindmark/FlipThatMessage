@@ -2,4 +2,6 @@
   <string name="app_name">Flip That Message</string>
   <string name="tableflip">(╯°□°)╯︵ ┻━┻</string>
   <string name="export">Export</string>
+  <string name="flip_that_message">Flip that message</string>
+  <string name="magic_flipping_area">Magic flipping area</string>
 </resources>
